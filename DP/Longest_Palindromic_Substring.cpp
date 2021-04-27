@@ -61,8 +61,8 @@ int main()
     cout<<"Enter the input:\n";
     cin>>s;
 
-    Solution s1;
-    cout<<"Longest Palindromic Substring: "<<s1.longestPalindrome(s)<<endl;
+    Solution S1;
+    cout<<"Longest Palindromic Substring: "<<S1.longestPalindrome(s)<<endl;
 
     return 0;
 }
